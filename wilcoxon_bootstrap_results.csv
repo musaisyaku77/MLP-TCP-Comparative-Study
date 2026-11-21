@@ -1,0 +1,6 @@
+Comparison,MLP_Mean,Other_Mean,W_stat,p_value,Significant,Effect_r,Direction
+MLP vs RF,0.8635,0.8635,1.0,0.0,Yes,1.0,MLP >
+MLP vs XGB,0.8635,0.8626,0.0,0.0,Yes,1.0,MLP >
+MLP vs LR,0.8635,0.8635,6019.0,0.0,Yes,0.988,MLP >
+MLP vs SVM,0.8635,0.8633,0.0,0.0,Yes,1.0,MLP >
+MLP vs KNN,0.8635,0.8634,7534.0,0.0,Yes,0.9849,MLP >
